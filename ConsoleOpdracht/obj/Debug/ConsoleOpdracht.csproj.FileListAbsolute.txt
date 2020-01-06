@@ -1,0 +1,7 @@
+C:\Users\PepijnAdmin\Source\Repos\2018_ADSD_Project_Prototype_Team_01\ConsoleOpdracht\ConsoleOpdracht\bin\Debug\ConsoleOpdracht.exe.config
+C:\Users\PepijnAdmin\Source\Repos\2018_ADSD_Project_Prototype_Team_01\ConsoleOpdracht\ConsoleOpdracht\bin\Debug\ConsoleOpdracht.exe
+C:\Users\PepijnAdmin\Source\Repos\2018_ADSD_Project_Prototype_Team_01\ConsoleOpdracht\ConsoleOpdracht\bin\Debug\ConsoleOpdracht.pdb
+C:\Users\PepijnAdmin\Source\Repos\2018_ADSD_Project_Prototype_Team_01\ConsoleOpdracht\ConsoleOpdracht\obj\Debug\ConsoleOpdracht.csprojAssemblyReference.cache
+C:\Users\PepijnAdmin\Source\Repos\2018_ADSD_Project_Prototype_Team_01\ConsoleOpdracht\ConsoleOpdracht\obj\Debug\ConsoleOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\PepijnAdmin\Source\Repos\2018_ADSD_Project_Prototype_Team_01\ConsoleOpdracht\ConsoleOpdracht\obj\Debug\ConsoleOpdracht.exe
+C:\Users\PepijnAdmin\Source\Repos\2018_ADSD_Project_Prototype_Team_01\ConsoleOpdracht\ConsoleOpdracht\obj\Debug\ConsoleOpdracht.pdb
